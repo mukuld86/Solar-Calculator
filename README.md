@@ -1,4 +1,4 @@
-# Solar Calculator
+# Solar Energy Calculator
 
 ## Overview
 
