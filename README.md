@@ -12,5 +12,8 @@ To determine the amount of energy a user would need, they will have to provide t
 
 Users can also view a pie chart showing the ratio of energy consumed by each appliance.
 
+## Link
+
+https://solar-calculator-blond.vercel.app/index.html
 ----
 
